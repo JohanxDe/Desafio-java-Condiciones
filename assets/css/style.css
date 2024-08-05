@@ -1,0 +1,53 @@
+main{
+    margin-top: 20px;
+    
+}
+
+.primera-imagen{
+    display: flex;
+    justify-content: center;
+}
+
+.primera-imagen img{
+    width: 275px;
+    height: 184px;
+}
+
+.parrafoImagenes{
+    text-align: center;
+}
+
+.estiquer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+input{
+    margin-top: 10px;
+    text-align: center;
+}
+
+section{
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+.fotos{
+    display: flex;
+    justify-content: space-around;
+}
+
+.botonsito{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.botonDos{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
